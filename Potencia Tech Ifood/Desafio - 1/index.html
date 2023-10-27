@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f3f3f3;
+            border-radius: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Calculadora de Nível de Herói</h2>
+        <label for="nameP">Nome do Personagem:</label>
+        <input type="text" id="nameP">
+        <br>
+        <label for="xp">Pontos de Experiência (XP):</label>
+        <input type="text" id="xp">
+        <br>
+        <button onclick="calcularNivel()">Calcular Nível</button>
+        <p id="resultado"></p>
+    </div>
+</body>
+<script src="script.js"></script>
+</html>
