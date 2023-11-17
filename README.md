@@ -1,6 +1,6 @@
- # Weslley Dorta 👨‍💻 - Atualizando meus conhecimentos na DIO com algumas atividades empolgantes! 🚀
+ # Weslley Dorta 👨‍💻
 
-Olá! Eu sou Weslley Dorta, um Analista de TI e estudante de Engenharia da Computação apaixonado por tecnologia. Bem-vindo ao meu perfil!
+Atualizando meus conhecimentos na DIO com algumas atividades empolgantes! 🚀
 
 ## Conecte-se comigo
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/weslley-dorta-168420180/)           [![Outlook](https://img.shields.io/badge/Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4)](mailto:weslley_dorta@hotmail.com) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WeslleyDorta) [![Perfil DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge)](https://www.dio.me/users/weslleydorta)
