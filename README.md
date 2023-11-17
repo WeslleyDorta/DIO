@@ -12,9 +12,4 @@ Sinta-se à vontade para entrar em contato comigo ou explorar meus projetos e co
 
 Estas são algumas das tecnologias com as quais trabalho e estou sempre buscando aprender mais.
 
-## Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weslleydorta&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=weslleydorta&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
 Obrigado por visitar o meu perfil! 😊🚀
